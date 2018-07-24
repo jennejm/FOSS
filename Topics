@@ -1,1 +1,47 @@
+MIDTERM
 
+I.	Introduction of Free and Open Source Software (FOSS)
+    a.	Background and History of FOSS
+        a.1	Why use FOSS?
+        a.2	History of the Open Source Movement
+        a.3	Definition of Open Source
+    b.	Free Software, Proprietary Software and OSS
+    c.	Myths and Misconceptions about FOSS
+    d.	OSS Technology and Career Paths
+
+II.	OSS Licenses and Business Models
+  a.	License, Contract, Copyright
+    a.1 Intellectual Property
+    a.2	Software License
+    a.3	Fundamentals of Copyright Law
+    a.4	Click-on Contract
+  b.	Major OSS Licenses and Their Features
+    b.1	GPL
+    b.2	LGPL
+    b.3	BSD
+    b.4	MPL
+    b.5	MIT
+    b.6	Apache 
+    b.7	Other Licenses Format
+  c.	Business Models
+    c.1	Dual Licensing
+    c.2	Split open source software / commercial products
+    c.3	Product specialists
+    c.4	Platform providers
+III.	Major OSS and Distributions
+  a.	Operating Systems
+  b.	Server Applications
+    b.1	Infrastructure Services
+    b.2	Web Servers
+    b.3	Database Servers
+    b.4	Mail Servers
+    b.5	Systems Management services
+  c.	Desktop Applications
+  d.	Some of the major GNU/Linux Distributions
+    d.1 RedHat
+    d.2	Fedora
+    d.3	Turbo-Linux
+    d.4	Ubuntu
+    d.5	SUSE Linux
+    d.6	Debian
+    d.7	KNOPPIX
